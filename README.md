@@ -1,5 +1,5 @@
 # dragonfly
-DSL - NG (NextGeneration)
+DSL - NextGeneration
 
 ```
 With '/etc/ssh/sshd_config'
