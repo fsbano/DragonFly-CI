@@ -2,6 +2,6 @@
     "SSLCACertificateFile": "/etc/dragonfly/ssl/ca/ca.pem",
     "SSLCertificateFile": "/etc/dragonfly/ssl/server/server.pem",
     "SSLCertificateKeyFile": "/etc/dragonfly/ssl/server/server.key",
-    "Server": "argocd.fsbano.io",
+    "Server": "dragonfly.fsbano.io",
     "Port": 8000
 }
