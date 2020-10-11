@@ -1,6 +1,6 @@
 package main
 
-import "config"
+import "github.com/fsbano/DragonFly/src/config"
 import "crypto/tls"
 import "fmt"
 import "io"
